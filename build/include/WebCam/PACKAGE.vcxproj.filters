@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Chits\Desktop\rtcws\WebCam\build\CMakeFiles\33cea72ce7f3caf1d702f05bfe2fb09d\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C0F6DCD5-89A4-330F-A2E4-D4871D06E662}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
